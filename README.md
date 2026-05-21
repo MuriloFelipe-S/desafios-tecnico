@@ -1,10 +1,5 @@
 # 🚀 Desafios Técnicos (Front-End & Back-End)
 
-<!-- Substitua pelo link correto da sua imagem/badge se tiver, ou deixe apenas o título -->
-![GitHub repo size](https://img.shields.io/github/repo-size/MuriloFelipe-S/desafios-tecnico)
-![GitHub contributors](https://img.shields.io/github/contributors/MuriloFelipe-S/desafios-tecnico)
-![GitHub stars](https://img.shields.io/github/stars/MuriloFelipe-S/desafios-tecnico?style=social)
-
 Criei este repositório com o objetivo de centralizar **desafios técnicos reais** cobrados por empresas em processos seletivos para desenvolvedores. 
 Este espaço serve tanto para quem está se preparando para entrevistas quanto para quem quer sair do "tutorial hell" e enfrentar problemas do mundo real.
 
