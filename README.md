@@ -1,13 +1,12 @@
-# 🚀 Desafios Técnicos Reais (Front-End & Back-End)
+# 🚀 Desafios Técnicos (Front-End & Back-End)
 
 <!-- Substitua pelo link correto da sua imagem/badge se tiver, ou deixe apenas o título -->
-![GitHub repo size](https://img.shields.io/github/repo-size/[SEU_USUARIO_GITHUB]/[NOME_DO_REPO])
-![GitHub contributors](https://img.shields.io/github/contributors/[SEU_USUARIO_GITHUB]/[NOME_DO_REPO])
-![GitHub stars](https://img.shields.io/github/stars/[SEU_USUARIO_GITHUB]/[NOME_DO_REPO]?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/MuriloFelipe-S/desafios-tecnico)
+![GitHub contributors](https://img.shields.io/github/contributors/MuriloFelipe-S/desafios-tecnico)
+![GitHub stars](https://img.shields.io/github/stars/MuriloFelipe-S/desafios-tecnico?style=social)
 
 Criei este repositório com o objetivo de centralizar **desafios técnicos reais** cobrados por empresas em processos seletivos para desenvolvedores. 
-
-A ideia surgiu após assistir a um vídeo do Horace Mota detalhando um teste técnico real aplicado para uma vaga Júnior no Itaú. Percebi que esse tipo de material é valioso demais para ficar disperso na internet. Este espaço serve tanto para quem está se preparando para entrevistas quanto para quem quer sair do "tutorial hell" e enfrentar problemas do mundo real.
+Este espaço serve tanto para quem está se preparando para entrevistas quanto para quem quer sair do "tutorial hell" e enfrentar problemas do mundo real.
 
 ---
 
@@ -17,37 +16,6 @@ Atualmente, o repositório conta com **7 desafios reais** documentados:
 
 *   ☕ **Back-End:** 5 desafios
 *   ⚛️ **Front-End:** 2 desafios
-
----
-
-## 🛠️ Lista de Desafios
-
-### 🖥️ Back-End (5)
-1. **Desafio Itaú - Vaga Júnior**
-   * *Descrição:* [Breve resumo do que o teste pede, ex: API de transações, sistema de pagamento, etc.]
-   * *Tecnologias sugeridas/exigidas:* [Ex: Java/Spring Boot, Node.js, etc.]
-   * *Acesse aqui:* `[Link para a pasta do desafio]`
-2. **[Nome do Desafio 2]**
-   * *Descrição:* [Breve resumo]
-   * *Acesse aqui:* `[Link para a pasta]`
-3. **[Nome do Desafio 3]**
-   * *Descrição:* [Breve resumo]
-   * *Acesse aqui:* `[Link para a pasta]`
-4. **[Nome do Desafio 4]**
-   * *Descrição:* [Breve resumo]
-   * *Acesse aqui:* `[Link para a pasta]`
-5. **[Nome do Desafio 5]**
-   * *Descrição:* [Breve resumo]
-   * *Acesse aqui:* `[Link para a pasta]`
-
-### 🎨 Front-End (2)
-1. **[Nome do Desafio 1]**
-   * *Descrição:* [Breve resumo, ex: Clone de interface, Dashboard com consumo de API, etc.]
-   * *Tecnologias sugeridas/exigidas:* [Ex: React, Angular, Vanilla JS]
-   * *Acesse aqui:* `[Link para a pasta do desafio]`
-2. **[Nome do Desafio 2]**
-   * *Descrição:* [Breve resumo]
-   * *Acesse aqui:* `[Link para a pasta]`
 
 ---
 
@@ -77,9 +45,8 @@ Para contribuir, siga os passos abaixo:
 
 ## 👤 Autor
 
-Criado e mantido por **[Seu Nome]**.
+Criado e mantido por **Murilo**.
 
-*   **LinkedIn:** [Seu Link do LinkedIn]
-*   **GitHub:** [Seu Link do GitHub]
+[![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/murilofelipe/)
 
 Se esse projeto te ajudou ou se você apoia a iniciativa, não esqueça de deixar uma 🌟!
